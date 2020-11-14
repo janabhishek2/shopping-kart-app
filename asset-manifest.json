@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-kart-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/shopping-kart-app/static/js/main.79e2bdbd.chunk.js",
+    "main.js.map": "/shopping-kart-app/static/js/main.79e2bdbd.chunk.js.map",
+    "runtime-main.js": "/shopping-kart-app/static/js/runtime-main.ab4dda3c.js",
+    "runtime-main.js.map": "/shopping-kart-app/static/js/runtime-main.ab4dda3c.js.map",
+    "static/css/2.43b2b750.chunk.css": "/shopping-kart-app/static/css/2.43b2b750.chunk.css",
+    "static/js/2.59879be8.chunk.js": "/shopping-kart-app/static/js/2.59879be8.chunk.js",
+    "static/js/2.59879be8.chunk.js.map": "/shopping-kart-app/static/js/2.59879be8.chunk.js.map",
+    "static/js/3.905cbb5b.chunk.js": "/shopping-kart-app/static/js/3.905cbb5b.chunk.js",
+    "static/js/3.905cbb5b.chunk.js.map": "/shopping-kart-app/static/js/3.905cbb5b.chunk.js.map",
+    "index.html": "/shopping-kart-app/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/shopping-kart-app/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/shopping-kart-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.59879be8.chunk.js.LICENSE.txt": "/shopping-kart-app/static/js/2.59879be8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab4dda3c.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.59879be8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.79e2bdbd.chunk.js"
+  ]
+}
